@@ -1,0 +1,6 @@
+if SHIELD_KNUBL
+
+config ZMK_KEYBOARD_NAME
+    default "Knubl"
+
+endif
